@@ -30,11 +30,11 @@ time.sleep(1)
 
 if a == max(num_1, num_2):
     print('good job yay!')
+elif a == 60.9:
+    print(f"you're dumb what??? its not fuckin* {a}")
 elif a == 67:
     print("like.. 6 7? hah")
 elif a == 69:
     print('you are the funny?')    
-elif a == (num_2):
-    print("you're dumb what")
 else:
     print(f'wtf, how did you get {a}')
